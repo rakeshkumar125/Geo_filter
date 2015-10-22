@@ -9,6 +9,7 @@ I have create the code that provide the location data within your radius. In thi
 
 + download the zip 
 + create the folder (geo_data) on localhost.
++ Run the GeoDistDiff.sql it contain the function which calculate the distance between the coordinate. 
 + create the database on menu & upload the mysql database dump.
 + service index.php configure the database configuration.
 
