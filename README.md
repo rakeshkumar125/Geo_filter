@@ -36,3 +36,8 @@ Presently in this application i only implement token based with time. For access
 Then a panel are shown. which is same like the index.html.But there is token pre filled. With the help of token you can get the data.
 The token valid for the 30 minute.
 
+Contact Us
++ rakeshkumar_125@yahoo.in (email)
++ 8800201217 (India)
++ rakeshkumar_125 (Skype)
+
